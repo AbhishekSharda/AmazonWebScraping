@@ -1,6 +1,6 @@
 # AmazonWebScraping
 Steps i took to scrape data fro Amazon.ca:-
- *  Using Auto Scrapper Library in Python,I tried scraping data from Amazon.ca
+ *  Using Auto Scraper Library in Python,I tried scraping data from Amazon.ca
  *  Firstly, I searched for Data science Books, and selected a book in search results, i.e."Data Analysis for Social Science: A Friendly and Practical Introduction"
  *  Secondly, I provided the price, title and number of star ratings voted on that book by multiple users, and sent that data to my AutoScraper,along with URL of that 
     webpage.
